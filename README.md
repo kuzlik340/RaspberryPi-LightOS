@@ -1,1 +1,1 @@
-# Project-RaspberryPi-LightOS
+# RaspberryPi-LightOS
